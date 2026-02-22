@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Jupyter / Marimo
+.ipynb_checkpoints
+.marimo/
+
+# Data
+data/*.csv
+
+# macOS
+.DS_Store
+
+# User-specific
+output.log

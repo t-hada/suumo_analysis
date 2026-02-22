@@ -1,0 +1,28 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.20.1"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "e2c325a0347f66ea61d35bf5046d2778",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "No module named 'src.analyzer'",
+          "traceback": []
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;/var/folders/z3/vzzw0k5s09d9bgd36_hysg7h0000gp/T/marimo_86137/__marimo__cell_Hbol_.py&quot;</span>, line <span class=\"m\">18</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"kn\">from</span><span class=\"w\"> </span><span class=\"nn\">src.analyzer</span><span class=\"w\"> </span><span class=\"kn\">import</span> <span class=\"n\">create_station_rent_summary</span><span class=\"p\">,</span> <span class=\"n\">calculate_cost_performance</span>\n<span class=\"gr\">ModuleNotFoundError</span>: <span class=\"n\">No module named &#39;src.analyzer&#39;</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    }
+  ]
+}
